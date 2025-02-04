@@ -1,4 +1,4 @@
-# tests for the functions in ncsa.py
+# tests for the functions in pss.py
 
 import pytest
 
@@ -7,9 +7,7 @@ def test_string():
    tstring = "National Center for Supercomputers Applications"
    return tstring
 
-from ncsa import vowel_to_number
-from ncsa import modify_string
-from ncsa import consonant_count
+from pss import *
 
 def test_vowel_to_number_uppercase():
     assert vowel_to_number("A") == "1"
