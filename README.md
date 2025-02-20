@@ -1,5 +1,5 @@
 # python-string-substitution
-Python string substitution interview programming exercise
+Python string substitution programming exercise
 
 Write a program in any programming language to do the following:
 1. Replace all the vowels in the string “National Center for Supercomputers Applications” by their corresponding order number in alphabetical sequence (a with 1, e with 5, etc).
